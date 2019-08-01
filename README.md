@@ -14,10 +14,10 @@ The following dependencys are required for this script to operate successfully w
 
 ## addons that are supported
 - [esx_inventoryhud-trunk](https://forum.fivem.net/t/addon-esx-inventory-hud-vehicle-trunk/458152)
-# Works with 
-- [esx_inventoryhud]--modified for shops (https://forum.fivem.net/t/inventoryhud-shops/685775)
-### Features
 
+# Works with inventory hud modified for shops
+- [esx_inventoryhud](https://forum.fivem.net/t/inventoryhud-shops/685775) 
+### Features
 -glovebox inventory
 
 ### Intergrating Inventorys Tutorial
