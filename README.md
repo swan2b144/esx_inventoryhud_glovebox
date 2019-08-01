@@ -222,4 +222,4 @@ In your server.cfg file
 start esx_inventoryhud_glovebox
 ```
 
-And restart your server, you should then be able to use the resource, if any problems arise please raise a request in the github,
+And restart your server, you should then be able to use the resource
